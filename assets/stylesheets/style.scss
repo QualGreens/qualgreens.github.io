@@ -1,4 +1,18 @@
 ---
+# css for the site
 # this ensures Jekyll reads the file to be transformed into CSS later
 # only Main files contain this front matter, not partials.
 ---
+@import "site_variables";
+// @include font-face(Montserrat, assets/fonts/Montserrat, Bold, Regular, ttf);
+// @include font-face(Roboto, assets/fonts/Roboto, );
+@import url(https://fonts.googleapis.com/css?family=Raleway|Montserrat);
+h1,h2,h3,h4,h5,h6 {
+  color: $header-font-color;
+  font-family: 'Montserrat', sans-serif;
+}
+
+html, body {
+  color: $text-color;
+  font-family: 'Raleway', sans-serif;
+}
