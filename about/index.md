@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#About Us
+###About Us
 
 Our focus is to improve the current state of food chain and related commodities market through our SaaS platform.
 
