@@ -14,7 +14,7 @@ Some features that will be available:
 * Manage contracts
 * Forecast supply chain needs
 * Improve warehouse efficiency
-* Keep track of commodities taking advantage of Barcode/RFID technologies
+* Keep track of commodities taking advantage of GS1 Standards
 * Improve warehouse stock level monitoring
 * Monitor shipping and stocking policies
 * Streamline Supply and Purchase Orders
