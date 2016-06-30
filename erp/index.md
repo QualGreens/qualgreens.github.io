@@ -2,11 +2,11 @@
 layout: default
 title: Enterprise Resource Management
 ---
-#Enterprise Resource Management
+# Enterprise Resource Management
 
 In order to reduce in-efficiencies, we need to analyze the structure of the company's Enterprise Resource Management. We are building the appropriate modules that are going to be available on our SaaS platform and APIs.
 
-###Operations
+### Operations
 One of the most important modules that can help improve the food chain is the Supply Chain Management module of the company structure. The policies and monitoring of the SCM can be vital to all operations of the company.
 
 Some features that will be available:
@@ -23,7 +23,7 @@ Some features that will be available:
 * Keep track of resources so no bottlenecks occur
 * All will have easy-to-read graphs and insights
 
-###Finance
+### Finance
 The finance module will have the following highlights:
 
 * Manage and aggregate invoices
@@ -31,7 +31,7 @@ The finance module will have the following highlights:
 * Create, update and deploy timesheets
 * Manage contracts between various suppliers and customers
 
-###Human Resources
+### Human Resources
 Some of the highlights for the Human Resources Module will include:
 
 * Manage and monitor employees
